@@ -1,7 +1,7 @@
 :HL["/_next/static/chunks/2y4-d6axaafzb.css","style"]
-:HL["/_next/static/chunks/2dh71l0-xajgg.css","style"]
+:HL["/_next/static/chunks/2d0fiwyvo0wap.css","style"]
 :HL["/_next/static/media/034111bd5fecc463-s.p.0m75r3fswdwux.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"rolelens","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131136,"c":"$Q2"}]]
-0:{"b":"CCcpfqRqkDK0OogpaFP8L","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"TPxS0I5syh90qJTkR-nbz","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
