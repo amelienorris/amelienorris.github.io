@@ -3,4 +3,4 @@
 :HL["/_next/static/media/034111bd5fecc463-s.p.0m75r3fswdwux.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/amelie-headshot.jpg","image",{"fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"tt5WvdUzXNkT-iHo5NUVh","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"8Pg06t-Qh0gC051te1Pn9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
